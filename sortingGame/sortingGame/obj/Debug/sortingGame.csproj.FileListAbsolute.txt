@@ -1,0 +1,7 @@
+C:\Users\Majli\source\repos\sortingGame\sortingGame\bin\Debug\sortingGame.exe.config
+C:\Users\Majli\source\repos\sortingGame\sortingGame\bin\Debug\sortingGame.exe
+C:\Users\Majli\source\repos\sortingGame\sortingGame\bin\Debug\sortingGame.pdb
+C:\Users\Majli\source\repos\sortingGame\sortingGame\obj\Debug\sortingGame.csprojAssemblyReference.cache
+C:\Users\Majli\source\repos\sortingGame\sortingGame\obj\Debug\sortingGame.csproj.CoreCompileInputs.cache
+C:\Users\Majli\source\repos\sortingGame\sortingGame\obj\Debug\sortingGame.exe
+C:\Users\Majli\source\repos\sortingGame\sortingGame\obj\Debug\sortingGame.pdb
